@@ -1,0 +1,10 @@
+.currentDate {
+  background-color: teal;
+  color: black;
+}
+
+.calendar-container {
+  background-color: rgb(30, 30, 30);
+  color: teal;
+  width: fit-content;
+}
