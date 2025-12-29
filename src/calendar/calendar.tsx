@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./calendar.css";
 import { getDaysInMonth, getDay } from "date-fns";
-import { MonthEnum } from "../Enum/monthEnum";
+import { MonthEnum } from "../enum/monthEnum";
 
 interface Props {
   date: string;
